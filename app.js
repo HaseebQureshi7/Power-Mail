@@ -13,6 +13,6 @@ sign_in_btn.addEventListener("click", () => {
 });
 
 
-sign_in.addEventListener("click", ()=> {
+sign_in.addEventListener("click", () => {
   window.open("dashboard.html");
 })
